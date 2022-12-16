@@ -1,0 +1,73 @@
+body {
+    background: black;
+    margin: -5px;
+    padding: 5vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.boxbody {
+    background: white;
+    margin: auto;
+    width: 450px;
+    font-family: "Trirong";
+    border-radius: 5px;
+}
+
+.SonPhoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Postfooter {
+    margin: 10px;
+
+
+}
+
+.Postheader {
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    height: 65px;
+    margin: 10px;
+    padding-right: 10px;
+}
+
+.ph-izq {
+    padding-left: 15px;
+    display: flex;
+    align-items: center;
+    line-height: 18px;
+}
+
+.ph-dere {
+    margin: 10px;
+}
+
+.IconosP {
+    display: flex;
+    /* align-content: center; */
+    justify-content: space-between;
+    /* height: 65px; */
+    margin: 10px;
+    padding-right: 258px;
+}
+
+.BodyIcons {
+    display: flex;
+}
+
+.iconos {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+
+}
+
+p {
+    margin: 10px;
+}
